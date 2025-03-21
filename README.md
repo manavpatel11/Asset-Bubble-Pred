@@ -1,5 +1,5 @@
-# Stock-Market-Prediction-Web-App-using-Machine-Learning
-**Stock Market Prediction* Web App based on *Machine Learning** and **Sentiment Analysis** of Tweets and Financial Models. <a href="https://gaurav7888-nass-app-h64hf0.streamlit.app/">Finally  the Web App is deployed  on **Streamlit**.</a>Finally The dataset has beeen taken from  **NASDAQ** or **NSE** .  Predictions are made using three algorithms: *ARIMA, LSTM, etc. 
+# Asset-Bubble-Stock-Market-Prediction-Web-App-using-Machine-Learning
+**Asset Bubble & Stock Market Prediction* Web App based on *Machine Learning** and **Sentiment Analysis** of Tweets and Financial Models. <a href="https://gaurav7888-nass-app-h64hf0.streamlit.app/">Finally  the Web App is deployed  on **Streamlit**.</a>Finally The dataset has beeen taken from  **NASDAQ** or **NSE** .  Predictions are made using three algorithms: *ARIMA, LSTM, etc. 
 
 # Screenshots
 <img src="Screenshots/ss1.png">
